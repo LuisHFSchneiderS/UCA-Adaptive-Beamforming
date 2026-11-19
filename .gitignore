@@ -1,0 +1,9 @@
+*.asv
+*.m~
+*.log
+*.xopp
+*.tex
+*.cls
+/main.pdf
+build/
+.vscode/
